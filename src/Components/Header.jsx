@@ -8,7 +8,7 @@ const Header = () => {
     <header>
         <div className="container">
             <nav className="navbar navbar-expand-lg navbar-light">
-                <NavLink className="navbar-brand" to={"/"}>
+                <NavLink className="navbar-brand" to={"/Home"}>
                     <img src={logo} alt="Logo" />
                 </NavLink>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -18,7 +18,7 @@ const Header = () => {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <NavLink className="nav-link" aria-current="page" to={"/"}>Home</NavLink>
+                            <NavLink className="nav-link" aria-current="page" to={"/Home"}>Home</NavLink>
                         </li>
                         <li className="nav-item">
                             <NavLink className="nav-link" to={"/About"}>About</NavLink>
