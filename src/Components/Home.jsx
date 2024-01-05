@@ -20,7 +20,7 @@ const Home = () => {
         <div className="row"> 
           <div className="col-md-6 col-lg-4 hero-left wow slideInLeft">
             <div className="hero-title title-img-outer">
-              <h1>It's good to be<span className="title-border">home</span></h1>
+              <h1>It's good to be<span className="title-border"> home</span></h1>
               <span className="title-img"><img src={title_image} alt="title image" /></span>
             </div>
             <p className="title-info">Quality home cleaning made simple with our reliable housekeeping team and all of the products and tools included.</p>
