@@ -22,7 +22,7 @@ function App() {
       <BrowserRouter forceRefresh>
       <Header />
       <Routes>
-        <Route exact path="/Home" element={<Home />} />
+        <Route exact path="/" element={<Home />} />
         <Route exact path="/About" element={<About />} />
         <Route exact path="/Contact" element={<Contact />} />
         <Route exact path="/Login" element={<Login />} />
