@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Slik/static/css/main.a909d8f0.css",
-    "main.js": "/Slik/static/js/main.45e001a9.js",
+    "main.js": "/Slik/static/js/main.c040510f.js",
     "static/js/787.96e33f51.chunk.js": "/Slik/static/js/787.96e33f51.chunk.js",
     "static/media/hero-img1.png": "/Slik/static/media/hero-img1.93fdee34462df450985a.png",
     "static/media/about3.png": "/Slik/static/media/about3.0d0ef960bed0a2bf6535.png",
@@ -29,11 +29,11 @@
     "static/media/plus.svg": "/Slik/static/media/plus.b4a73a22e79dfe49087dfd64e45f580f.svg",
     "static/media/minus.svg": "/Slik/static/media/minus.c0f6ef8e667fa6d6f8f58e532b12241f.svg",
     "main.a909d8f0.css.map": "/Slik/static/css/main.a909d8f0.css.map",
-    "main.45e001a9.js.map": "/Slik/static/js/main.45e001a9.js.map",
+    "main.c040510f.js.map": "/Slik/static/js/main.c040510f.js.map",
     "787.96e33f51.chunk.js.map": "/Slik/static/js/787.96e33f51.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a909d8f0.css",
-    "static/js/main.45e001a9.js"
+    "static/js/main.c040510f.js"
   ]
 }
